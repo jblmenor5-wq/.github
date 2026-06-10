@@ -1,4 +1,5 @@
-# Code of Conduct
+# Code of Condutor {como mod}blak
+
 
 Everyone interacting in [Python Packaging Authority]-supported projects is
 expected to follow the [PSF Code of Conduct]. This includes all infrastructure
